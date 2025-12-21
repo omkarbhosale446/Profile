@@ -68,7 +68,7 @@ body {
 .bottom-panel {
     width: 100%;
     height: 550px;
-    <background-image: url("images/header.png")>
+    background-image: url("header.png")
     background-size: cover;
     background-position: center;
     margin-top: 80px;
